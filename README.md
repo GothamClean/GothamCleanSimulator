@@ -16,7 +16,7 @@
 ![Real Time Sensor Visualization](docs/guide/images/sensors/lidar_simulation.png?raw=true)
 ![Camera Object Recognition](docs/reference/images/camera_recognition.png?raw=true)
 
-Webots provides a complete development environment to model, program, and simulate robots, vehicles, and mechanical systems.
+GothamClean provides a complete development environment to model, program, and simulate robots, vehicles, and mechanical systems.
 It is a beginner friendly software that is meant to introduce newcomers to the world of robotics.
 
 
@@ -50,7 +50,7 @@ If you prefer to compile Webots from source, instructions can be found in the [w
 
 ### Updating Webots
 
-Information about how to update installed versions of Webots can be found [here](https://cyberbotics.com/doc/guide/upgrading-webots).
+Information about how to update installed versions of GothamClean can be found [here](https://cyberbotics.com/doc/guide/upgrading-webots).
 
 ### Tutorials
 
@@ -60,16 +60,9 @@ They try to make robotics simulations accessible and fun for all and are an exce
 
 ### Bugs
 
-Webots supports a large variety of different use cases, and we cannot address every bug within the application.
+GothamClean supports a large variety of different use cases, and we cannot address every bug within the application.
 A list of known bugs and workarounds that will not be fixed in the short-term can be found [here](https://cyberbotics.com/doc/guide/known-bugs).
 An exhaustive list of all known bugs can be found [on GitHub](https://github.com/cyberbotics/webots/issues).
 If you find a new bug, please report it [here](https://github.com/cyberbotics/webots/issues/new/choose).
 
-### About us
 
-Webots was originally designed at [EPFL](https://epfl.ch) in 1996 as a research tool for mobile robotics.
-In 1998, it began being developed and commercialized by [Cyberbotics](https://cyberbotics.com).
-In December 2018, Webots was open sourced.
-Since then, [Cyberbotics](https://cyberbotics.com) continues to develop Webots thanks to paid customer support, training, and consulting for industry and academic research projects.
-
-[Contact us](mailto:info@cyberbotics.com) to discuss your custom robot simulation projects and any additional comments, concerns, or developments you may have for our project!
