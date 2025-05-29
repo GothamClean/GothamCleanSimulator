@@ -1,4 +1,4 @@
-# Webots: open-source robot simulator
+# GothamClean: open-source robot simulator
 
 [![Webots](https://img.shields.io/github/v/release/cyberbotics/webots)](https://github.com/cyberbotics/webots/releases/latest)
 [![Software License](https://img.shields.io/badge/license-Apache%202.0-blue)](LICENSE)
